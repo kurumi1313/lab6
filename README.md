@@ -1,1 +1,1 @@
-# lab6
+Project description
